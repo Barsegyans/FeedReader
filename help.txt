@@ -1,0 +1,10 @@
+send me /movies to show you the movie news
+send me /politics to show you the policy news
+send me /music to show you the music news
+send me /games to show you the game news
+send me /health to show you the health news
+send me /science to show you the science news
+send me /football to show you the footbal news
+send me /showbusiness to show you the news of show business
+send me /business to show you the business news
+send me /cosmos to show you the space news
